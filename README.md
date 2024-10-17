@@ -4,7 +4,7 @@
   
 ## portifóllio simples
   
-  Pequeno site usando html [Página simples](https://lordbeik.github.io/html-portifolio/)
+  Pequeno site usando html [Página simples](https://lordbeik.github.io/projeto-Capstone-1/)
   
 
 ## 📚cursos e atividades
