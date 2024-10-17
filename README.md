@@ -2,16 +2,20 @@
 
   Atualmente estou cursando Engenharia da Computação na faculdade Descomplica buscando aprender sobre Back-End com java.
   
-
+## portifóllio simples
+  
+  Pequeno site usando html [Página simples](https://lordbeik.github.io/html-portifolio/)
   
 
 ## 📚cursos e atividades
+
+  Udemy - Desenolvimento web
 
   RiOn - Desenvolvimento de Bancos de Dados
   
   Bootcamp Claro - Java com Spring Boot 
 
-  Participando da turma 9 da DIO Campus Expert
+  Participei da turma 9 da DIO Campus Expert
 
 ----
 ## redes 
