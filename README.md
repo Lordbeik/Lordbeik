@@ -5,13 +5,14 @@
 ## portifóllio simples
   
   Pequeno site usando html [Página simples](https://lordbeik.github.io/projeto-Capstone-1/)
-  
 
 ## 📚cursos e atividades
 
+  RioOn - Desafios da Programação
+  
   Udemy - Desenolvimento web
 
-  RiOn - Desenvolvimento de Bancos de Dados
+  RioOn - Desenvolvimento de Bancos de Dados
   
   Bootcamp Claro - Java com Spring Boot 
 
