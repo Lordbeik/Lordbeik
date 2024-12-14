@@ -1,6 +1,6 @@
 # 👋Olá sou Carlos.
 
-  Atualmente estou cursando Engenharia da Computação na faculdade Descomplica buscando aprender sobre Back-End com java.
+  Atualmente cursando Engenharia da Computação na faculdade Descomplica buscando aprender sobre Back-End com java.
   
 ## portifóllio simples
   
