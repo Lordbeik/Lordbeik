@@ -8,15 +8,15 @@
 
 ## 📚cursos e atividades
 
-  RioOn - Desafios da Programação
+ - RioOn - Desafios da Programação
   
-  Udemy - Desenolvimento web
+ - Udemy - Desenolvimento web
 
-  RioOn - Desenvolvimento de Bancos de Dados
+ - RioOn - Desenvolvimento de Bancos de Dados
   
-  Bootcamp Claro - Java com Spring Boot 
+ - Bootcamp Claro - Java com Spring Boot 
 
-  Participei da turma 9 da DIO Campus Expert
+ - Participei da turma 9 da DIO Campus Expert
 
 ----
 ## redes 
