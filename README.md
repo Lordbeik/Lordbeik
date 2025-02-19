@@ -24,3 +24,6 @@
 [![DIO Badge](https://img.shields.io/badge/-DIO-%237159c1?style=for-the-badge&logo=data:image/png;base64,[BASE64_STRING]&logoColor=white)](https://www.dio.me/users/gerrilhas)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-antonio-eng-comp/)
 
+## Status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lordbeik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
