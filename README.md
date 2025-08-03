@@ -1,11 +1,9 @@
 # 👋Olá sou Carlos.
 
-  Atualmente cursando Engenharia da Computação na faculdade Descomplica buscando aprender mais sobre Full Stack .
-  
-## portifóllio simples
-  
-  Pequeno site usando html [Página simples](https://lordbeik.github.io/projeto-Capstone-1/)
+  # Olá, sou Carlos! 👋
 
+Estudante de **Engenharia da Computação** na Descomplica. Meu foco principal é o desenvolvimento **back-end**, **com o objetivo de aprender a construir** sistemas robustos e eficientes. Também me dedico a compreender o **front-end** para ter uma visão completa do ciclo de desenvolvimento de software.
+  
 ## 📚cursos e atividades
 
  - RioOn - Desafios da Programação
